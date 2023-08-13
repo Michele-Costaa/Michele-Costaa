@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Michelita07
 - 👀 I’m interested in Ciencia da Computação
-- 🌱 I’m currently learning Pegagogia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
