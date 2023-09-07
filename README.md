@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michelita07
-- 👀 I’m interested in Ciencia da Computação
+- 👀 Estudante de Ciencia da Computação
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
