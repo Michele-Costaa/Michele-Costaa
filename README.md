@@ -4,8 +4,8 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Michelita07&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelita07&layout=compact&langs_count=16&theme=panda"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Michele-Costaa&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michele-Costaa&layout=compact&langs_count=16&theme=panda"/>
 </div>
 <br>
     
@@ -27,10 +27,10 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Michelita07}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Michele-Costaa}/count.svg" /></p> 
 <br>
 </div>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Michelita07&bg_color=050505&color=66cdaa&line=66cdaa&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Michele-Costaa&bg_color=050505&color=66cdaa&line=66cdaa&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=footer"/>
